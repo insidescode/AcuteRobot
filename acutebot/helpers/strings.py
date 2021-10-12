@@ -105,13 +105,13 @@ Examples:
 
 # Start
 START_STRING = """
-Hey {}, I'm acutebot and i can help you to get \
+Hey {}, I'm Ivy Robot and i can help you to get \
 information about your favorite movies, tv and anime shows, you can also download \
 music & can view song lyrics using me! Just click the button \
 below to get started with list of possible commands...
 
 You can also search movies, tvshows & \
-anime inline! just type <pre>@acutebot</pre> in \
+anime inline! just type <pre>@IVY_0BOT</pre> in \
 your message box and follow the instructions.
 
 And don't forget to smile, atleast once in a while ;)
